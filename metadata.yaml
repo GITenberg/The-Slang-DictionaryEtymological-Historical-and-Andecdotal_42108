@@ -1,0 +1,38 @@
+_repo: The-Slang-DictionaryEtymological-Historical-and-Andecdotal_42108
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42108-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hotten, John Camden
+    aliases:
+    - Hotten, J. C. (John Camden)
+    - London antiquary
+    - Hotten, J. W. (John William)
+    - Sylvestre, Joshua
+    - Hotten, John William
+    - Hottin, J. C. (John Camden)
+    - Taylor, Theodore
+    - Sylvester, Joshua
+    birthdate: 1832
+    deathdate: 1873
+    gutenberg_agent_id: '41526'
+    url: http://www.gutenberg.org/2009/agents/41526
+description: ''
+gutenberg_issued: '2013-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42108'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- England -- London -- Slang -- Dictionaries'
+- !lcsh 'London (England) -- Languages -- Dictionaries'
+- !lcc 'PE'
+- !lcsh 'English language -- Dialects -- England -- London -- Glossaries, vocabularies,
+  etc.'
+title: 'The Slang Dictionary: Etymological, Historical and Andecdotal'
+url: http://www.gutenberg.org/ebooks/42108
